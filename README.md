@@ -61,7 +61,7 @@ Quanto à localização dos clientes, nota-se um padrão semelhante à distribui
 
 ![image](https://github.com/FerreiraGabrielw/ProjetoMarketingAnalytics/assets/165827836/16614368-e590-4897-ab90-b47347c160c4)
 
-Quanto à origem dos clientes, o Instagram se destaca como a principal plataforma de captação. No entanto, as referências também geram uma quantidade considerável de clientes, indicando a satisfação dos usuários que já adquiriram a orientação anteriormente.
+Quanto à origem dos clientes, o Instagram se destaca como a principal plataforma de captação. No entanto, as referências também geram uma quantidade considerável de clientes, indicando a satisfação dos usuários que já adquiriram a mentoria anteriormente.
 
 ![image](https://github.com/FerreiraGabrielw/ProjetoMarketingAnalytics/assets/165827836/13733705-e814-4f79-a49a-21b479c612cf)
 
@@ -72,7 +72,7 @@ Nos dados a seguir, verifica-se que os clientes possuem salário médio semelhan
 
 ![image](https://github.com/FerreiraGabrielw/ProjetoMarketingAnalytics/assets/165827836/f3f43a35-8aac-46cb-b51f-d4b495e0da4a)
 
-Portanto, presume-se que a motivação para adquirir a orientação seja a busca por emprego com salário acima da média nacional, considerando as condições adversas do mercado de trabalho atual.
+Portanto, presume-se que a motivação para adquirir a menntoria seja a busca por emprego com salário acima da média nacional, considerando as condições adversas do mercado de trabalho atual.
 
 ### Conhecimento Prévio
 
@@ -82,12 +82,12 @@ Em relação aos conhecimentos técnicos prévios, observa-se que a maioria dos 
 
 ## Considerações
 
-Através da análise dos dados, conclui-se que a maioria dos clientes é composta por jovens solteiros das regiões sul e sudeste do Brasil. Como a média salarial é semelhante à média nacional e alguns estão desempregados, presume-se que haja expectativas de melhoria da situação financeira por meio da migração para a área de dados. Nesse sentido, muitos clientes têm boa escolaridade e tempo disponível para estudos, o que pode indicar maior facilidade em aprender novos assuntos, uma vez que muitos deles não estão familiarizados com outras ferramentas além do Excel. Portanto, recomenda-se a elaboração de campanhas com base nessas características, como comparações de desempenho salarial ou flexibilidade entre a área de dados e outras ocupações. Tendo em vista o pouco conhecimento prévio necessário para a transição de carreira, recomenda-se a realização de workshops ou comunicação com os potenciais clientes para que comecem os estudos antes da compra da orientação, a fim de facilitar a migração para a área de dados.
+Através da análise dos dados, conclui-se que a maioria dos clientes é composta por jovens solteiros das regiões sul e sudeste do Brasil. Como a média salarial é semelhante à média nacional e alguns estão desempregados, presume-se que haja expectativas de melhoria da situação financeira por meio da migração para a área de dados. Nesse sentido, muitos clientes têm boa escolaridade e tempo disponível para estudos, o que pode indicar maior facilidade em aprender novos assuntos, uma vez que muitos deles não estão familiarizados com outras ferramentas além do Excel. Portanto, recomenda-se a elaboração de campanhas com base nessas características, como comparações de desempenho salarial ou flexibilidade entre a área de dados e outras ocupações. Tendo em vista o pouco conhecimento prévio necessário para a transição de carreira, recomenda-se a realização de workshops ou comunicação com os potenciais clientes para que comecem os estudos antes da compra da mentoria, a fim de facilitar a migração para a área de dados.
 
 ## Expectativas
 
-As expectativas com a orientação, de maneira geral, consistem no desejo por conteúdos práticos do dia a dia de um analista de dados e orientação personalizada para atender às necessidades individuais dos clientes. Além disso, espera-se aprender sobre os processos seletivos, como encontrar boas vagas, e ter suporte disponível para resolver possíveis dúvidas ao longo da orientação.
+As expectativas com a mentoria, de maneira geral, consistem no desejo por conteúdos práticos do dia a dia de um analista de dados e orientação personalizada para atender às necessidades individuais dos clientes. Além disso, espera-se aprender sobre os processos seletivos, como encontrar boas vagas, e ter suporte disponível para resolver possíveis dúvidas ao longo da mentoria.
 
 ## Conclusão
 
-Com base nos dados apresentados, recomenda-se ações publicitárias que demonstrem como a orientação pode resolver os problemas dos clientes, como empregos com baixa remuneração e falta de perspectivas de crescimento, além de esclarecer as preocupações apresentadas, como o medo de não conseguir um emprego na área. Além disso, pode-se apresentar um pouco da orientação, principalmente os aspectos relacionados às expectativas dos interessados, como aulas sobre processos seletivos ou interações do suporte com os orientados.
+Com base nos dados apresentados, recomenda-se ações publicitárias que demonstrem como a orientação pode resolver os problemas dos clientes, como empregos com baixa remuneração e falta de perspectivas de crescimento, além de esclarecer as preocupações apresentadas, como o medo de não conseguir um emprego na área. Além disso, pode-se apresentar um pouco da Mentoria, principalmente os aspectos relacionados às expectativas dos interessados, como aulas sobre processos seletivos ou interações do suporte com os mentorados.
